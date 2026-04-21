@@ -4,8 +4,8 @@
  * @description Visually marks players you no longer want to team up with. Includes local history and server-based export.
  * @author rodafux
  * @authorId 1085975072512151643
- * @website https://github.com/rodafux
- * @source https://github.com/rodafux/YouAreABadGuy
+ * @website https://github.com/
+ * @source https://github.com/
  */
 module.exports = class YouAreABadGuy {
     start() {
